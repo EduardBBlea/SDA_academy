@@ -1,1 +1,2 @@
-text added on the mian branch to trigger conflict
+new text sumtin the mian branch to trigger conflict
+
