@@ -1,8 +1,2 @@
-<<<<<<< HEAD
 loloolooooloool
-this is update 2.0
-mofified 3333
-random text
-=======
-loloolooooloool
->>>>>>> parent of 5b235e5 (updated file.txt with v2.0)
+helooooo
